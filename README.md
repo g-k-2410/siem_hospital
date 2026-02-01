@@ -16,7 +16,7 @@ Explainable AI (XAI): A custom Natural Language Generation (NLG) engine translat
 
 Live UI: Built with Gradio for rapid deployment and real-time visualization on Hugging Face Spaces.
 
-🚀 Why it Matters (Interview Focus)
+🚀 Why it Matters 
 Unsupervised Advantage: Identifies novel threats without requiring labeled attack data.
 
 Modular Architecture: Separation of ingestion, detection, and reporting allows for easy scaling to real-time streams (e.g., Kafka).
